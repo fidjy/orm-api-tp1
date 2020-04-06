@@ -7,6 +7,8 @@
 - Résumez les étapes du mécanisme de sérialisation implémenter dans Symfony
 
 - Qu'est ce qu'un groupe de serialisation? a quoi sert t'il?
+    - Un groupe d'objet.
+    - La sérialisation consiste à transformer un objet en un format spécifique.
 
 - Quel est la difference entre la methode PUT et la méthode PACTH?
     - La méthode ```PUT``` crée des ressources si l'uri est definit et ecrase l'entité entiere si elle existe deja.
