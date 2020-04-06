@@ -16,4 +16,4 @@
     - ```OneToMany```
     - ```ManyToMany```
 - Qu'est ce qu'un ```trait``` en PHP et a quoi peut-il servir?
-    Les trait sont un moyen de définir des méthodes que les classes peuvent utiliser.
+Les trait sont un moyen de définir des méthodes que les classes peuvent utiliser.
